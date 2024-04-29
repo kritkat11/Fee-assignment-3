@@ -12,7 +12,7 @@ const properties = [
     location: '123 Main St, Cityville',
     price: 300000,
     description: 'Spacious 4-bedroom house with a large backyard.',
-    image: './src/assets/beautiful-home.jpg', alt:'Beautiful Family Home',
+    image: 'https://tse3.mm.bing.net/th?id=OIP.ggk3hk45mJ2Ho_773AW9zwHaE8&pid=Api&P=0&h=180', alt:'Beautiful Family Home',
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ const properties = [
     location: '456 Elm St, Townsville',
     price: 150000,
     description: 'Charming 2-bedroom apartment in a quiet neighborhood.',
-    image: './src/assets/cozy.jpg', alt:'Cozy Apartment',
+    image: 'https://tse3.mm.bing.net/th?id=OIP.kdzRAGpnRWniPAwlgVm0zgHaE8&pid=Api&P=0&h=180', alt:'Cozy Apartment',
   },
   {
     id: 3,
@@ -28,7 +28,7 @@ const properties = [
     location: '789 Oak St, Metropolis',
     price: 1000000,
     description: 'Stunning penthouse with panoramic views of the city skyline.',
-    image: './src/assets/penthouse.jpg', alt:'Luxury Penthouse',
+    image: 'https://tse4.mm.bing.net/th?id=OIP.s0mq4lo85Fs6KOoM3VrzAwHaE8&pid=Api&P=0&h=180', alt:'Luxury Penthouse',
   },
   {
     id: 4,
@@ -36,7 +36,7 @@ const properties = [
     location: '10 Ocean Ave, Seaside',
     price: 750000,
     description: 'Elegant villa steps away from the beach with private pool.',
-    image: './src/assets/villa.jpg', alt:'Beachfront Villa',
+    image: 'https://tse4.mm.bing.net/th?id=OIP.acIzj0zJPd2VQHBRAtO3dwHaE7&pid=Api&P=0&h=180', alt:'Beachfront Villa',
   },
 
 
